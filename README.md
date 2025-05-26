@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
 |  |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
