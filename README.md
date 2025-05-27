@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0268-missing-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
 | ------- |
