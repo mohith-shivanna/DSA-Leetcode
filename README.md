@@ -66,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Tree
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
