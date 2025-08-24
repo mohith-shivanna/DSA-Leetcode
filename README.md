@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
