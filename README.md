@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0541-reverse-string-ii](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
