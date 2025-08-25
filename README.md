@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0344-reverse-string) |
 ## Math
