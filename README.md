@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
