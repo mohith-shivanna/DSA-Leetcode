@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Tree
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
