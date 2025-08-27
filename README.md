@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0260-single-number-iii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohith-shivanna/DSA-Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
